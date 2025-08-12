@@ -33,3 +33,7 @@ Un rétroplanning détaillé figure dans `01_Planification/Rétroplanning/retrop
 * Planification du plan de table, des animations et de l’arbre à vœux entre février 2026 et juin 2026.  
 * Organisation des essayages et retouches des tenues : premier essayage à l’automne 2025, second en décembre et retouches finales au printemps 2026.  
 * Finalisation de la logistique (livraisons, montage) et répétitions en juin 2026.
+
+## Points opérationnels
+
+Les aspects logistiques (capacités, mobilier, hébergement, cadeaux, etc.) sont détaillés dans `01_Planification/Notes_et_Décisions/points_operationnels.md`. Ce document centralise les prestations incluses avec la location du château, les suggestions d’action (recenser les enfants, choisir les vins, organiser l’espace) et le rappel des échéances financières.

@@ -1,17 +1,19 @@
 Catégorie,Élément,Prévu (€),Engagé (€),Payé (€),Écart (€),Notes
-Lieu,Château de Chevillon,0,0,0,0,
-Traiteur,Dîner et vin d’honneur,0,0,0,0,
-Musique,DJ,0,0,0,0,
-Photo,Photographe,0,0,0,0,
+Lieu,Château de Chevillon,8170,0,0,0,
+Traiteur,Dîner et vin d’honneur,8924.25,0,0,0,"Acompte de 2 000 € déjà versé (20 %) ; 2 000 € à régler en juin 2026 (30 %) ; solde de 4 524,25 € à verser fin juin."
+Musique,DJ,1490,0,0,0,
+Photo,Photographe,2150,0,0,0,
 Video,Vidéaste,0,0,0,0,
 Gâteau,Wedding cake,0,0,0,0,À sélectionner
 Fleurs,Fleuriste,0,0,0,0,Compositions florales et bouquets
 Décorations,Arche et décorations de table,0,0,0,0,
 Confiseries,Dragées et bonbons,0,0,0,0,
 Papeterie,Invitations et menus,0,0,0,0,
-Baby-sitter,Service enfant,0,0,0,0,À sélectionner
-Photobooth,Animation photo,0,0,0,0,À sélectionner
+Baby-sitter,Service enfant,400,0,0,0,
+Photobooth,Animation photo,400,0,0,0,
+Boissons,Boissons (vin d’honneur et bar),300,0,0,0,"Achat des vins et de l’open bar à effectuer par les mariés ; aucun droit de bouchon, budget estimé 300 €."
 Animations,Blind test / gaufres / chasse photo,0,0,0,0,
+Alliances,Anneaux et gravures,1985,0,0,0,
 Hébergement,Logements invités,0,0,0,0,
 Transport,Navettes ou covoiturage,0,0,0,0,
-Divers,Réserve imprévus,0,0,0,0,
+Divers,Réserve imprévus,2000,0,0,0,

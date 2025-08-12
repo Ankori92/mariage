@@ -12,7 +12,9 @@ Ce dépôt centralise toutes les informations pour l’organisation du mariage d
 
 ## Utilisation
 
-Les dossiers sont organisés par domaine (planification, prestataires, cérémonies, réception, décorations, invités, budget, communication, tenues, médias). Les fichiers sont nommés selon le format `AAAAMMJJ_description_vX.ext` pour faciliter le suivi des versions. Toute décision prise doit être consignée dans `00_Admin/Journal_des_decisions.md` et tout document obsolète doit être déplacé dans `99_Archives`.
+Les dossiers sont organisés par domaine (planification, prestataires, cérémonies, réception, décorations, invités, budget, communication, tenues, idées abandonnées et médias). Un nouveau répertoire **`09_Médias/Plans`** contient les plans du domaine (château, dépendances, poterne, salles) et les visuels de mobilier et d’hébergement fournis par le château.
+
+Les fichiers sont nommés selon le format `AAAAMMJJ_description_vX.ext` pour faciliter le suivi des versions. Toute décision prise doit être consignée dans `00_Admin/Journal_des_decisions.md` et tout document obsolète doit être déplacé dans `99_Archives`.
 
 ## Tables et devises
 

@@ -1,4 +1,4 @@
-# Plans du Château et des hébergements
+.# Plans du Château et des hébergements
 
 Cette section rassemble les plans fournis par le Château de Chevillon. Ils servent à organiser la répartition des chambres, l’agencement des salles et la localisation des espaces clés.
 
@@ -13,5 +13,8 @@ Cette section rassemble les plans fournis par le Château de Chevillon. Ils ser
 | **agencement_des_salles.png** | Détail de l’agencement de la **salle des miroirs** (147 m² + 49 m² de salle attenante) et de la **salle des échos** (75 m²) avec un office traiteur de 36 m². La capacité assise totale est d’environ **200 personnes** selon la configuration. |
 | **hébergement.png** | Tableau récapitulatif des capacités d’hébergement : château (14 pers.), dépendances (12 pers.), logis (4 pers.) et poterne (6 pers.), soit **36 couchages** en tout. |
 | **matériel_a_disposition.png** | Tableau du mobilier disponible : tables rondes et rectangulaires, mange‑debout, chaises, bancs et vaisselle pour 100 personnes. |
+| **plan_du_chateau_2eme.png** | Plan du deuxième étage du château : Léopold (44 m², 2 lits doubles), Alice (29 m², 2 lits doubles), Victoire (17 m², 1 lit double), Louis (20 m², 1 lit double) et une salle de bain. Capacité : 12 personnes. |
+| **plan_du_chateau_RDC.png** | Plan du rez‑de‑chaussée : salle du Trône (66 m²), salle du Billard (30 m²), salle des Souvenirs (53 m²), petite salle à manger (33 m²), cuisine (41 m²) et toilettes. Les salons peuvent servir de repli ou de salle de repos pour le cocktail. |
+
 
 Les fichiers se trouvent dans ce dossier et peuvent être consultés pour organiser l’attribution des chambres et l’aménagement des salles.
